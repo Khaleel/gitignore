@@ -1,9 +1,13 @@
 .htaccess
+.vhost
 /config.php
+/config-dist.php
 admin/config.php
+admin/config-dist.php
 
 !index.html
 
+install/
 download/
 image/data/
 image/cache/
